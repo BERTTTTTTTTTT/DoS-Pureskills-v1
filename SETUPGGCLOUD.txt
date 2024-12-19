@@ -1,4 +1,4 @@
-git clone https://github.com/DucCheChauVien/AKAAPANLE323
+git clone https://github.com/BERTTTTTTTTTT/DoS-Pureskills-v1
 pip install pystyle
 pip install asciimatics
 cd AKAAPANLE323
